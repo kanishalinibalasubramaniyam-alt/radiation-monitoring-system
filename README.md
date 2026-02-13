@@ -1,50 +1,20 @@
-☢️ Radiation Monitoring System
-A real-time radiation detection and monitoring system built with Arduino and Geiger-Muller tube. Measures nuclear radiation levels, displays data on LCD, triggers alerts, and logs readings for analysis.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-✨ Features
-Current Features
-✅ Radiation Detection – Detects Beta and Gamma radiation using Geiger-Muller tube (SBM-20/J305/M4011)
+# Run and deploy your AI Studio app
 
-✅ Real-time Display – Shows CPM (Counts Per Minute) and µSv/h on 16x2 LCD or 0.96" OLED
+This contains everything you need to run your app locally.
 
-✅ Audio Alert – Buzzer activates when radiation exceeds safe threshold
+View your app in AI Studio: https://ai.studio/apps/drive/1kkhtWRWzKYjUl6hNU9pUXxJ4rK2brKW2
 
-✅ Visual Indicator – LED blinks with each detected radiation event
+## Run Locally
 
-✅ Adjustable Threshold – User can set custom alarm level
+**Prerequisites:**  Node.js
 
-✅ Data Logging – Stores readings with timestamp on MicroSD card
 
-✅ History Mode – View past radiation readings on display
-
-✅ Low Power Mode – Battery-efficient operation for portable use
-
-✅ Reset Function – Manual reset button for system restart
-
-✅ Calibration Support – Easy calibration factor adjustment
-
-🚀 Future Updates
-In Progress
-🔄 WiFi Connectivity – Send data to cloud (ThingSpeak, Blynk)
-
-🔄 Mobile App – Android/iOS app for remote monitoring
-
-🔄 GPS Integration – Map radiation levels with location data
-
-Planned
-📱 Telegram Alerts – Instant notifications on smartphone
-
-📊 Web Dashboard – Real-time graphs and analytics
-
-🔋 Solar Powered – Sustainable energy option
-
-🖨️ 3D Printed Enclosure – Custom portable casing
-
-📈 Multi-Sensor Support – Connect up to 3 Geiger tubes
-
-🌍 Community Mapping – Crowdsourced radiation heatmap
-
-🧪 Spectroscopy – Identify radioactive isotopes
-
-🎙️ Voice Alerts – Pre-recorded safety announcements
-
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

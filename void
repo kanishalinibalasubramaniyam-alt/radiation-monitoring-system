@@ -1,0 +1,4 @@
+import React, { useState } from 'react';
+import { Mail, Lock, ArrowRight, User } from 'lucide-react';
+
+interface AuthScreenProps {

@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Johnson",
+      "email": "alex@example.com",
+      "profilePhoto": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "role": "user",
+      "phone": "+1234567890",
+      "createdAt": "2026-01-25T13:54:35.277866"
+    }
+  ],
+  "profiles": [],
+  "readings": [],
+  "alerts": [],
+  "settings": []
+}

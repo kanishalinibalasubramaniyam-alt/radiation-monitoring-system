@@ -1,0 +1,8 @@
+{
+  "name": "RadSafe Smart Monitor",
+  "description": "A comprehensive mobile radiation reduction and environmental safety monitoring system with real-time tracking, ML predictions, and AI-powered safety recommendations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
