@@ -32,5 +32,3 @@ A real-time radiation monitoring system using [Arduino/Raspberry Pi] to detect a
 ## 👨‍💻 Auther
 B.Kanishalini
 
-## 📝 License
-MIT License
