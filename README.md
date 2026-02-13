@@ -18,28 +18,7 @@
   
 </div>
 
----
 
-## 📋 **Table of Contents**
-- [✨ Overview](#-overview)
-- [🚀 Key Features](#-key-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [⚡ Quick Start](#-quick-start)
-- [📱 Screenshots](#-screenshots)
-- [🔧 Backend API](#-backend-api)
-- [🤖 AI Integration](#-ai-integration)
-- [🗺️ Location Mapping](#️-location-mapping)
-- [📊 Analytics & Reports](#-analytics--reports)
-- [👥 User System](#-user-system)
-- [🏗️ Architecture](#️-architecture)
-- [🧪 Testing](#-testing)
-- [🚢 Deployment](#-deployment)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
-
----
 
 ## ✨ **Overview**
 
