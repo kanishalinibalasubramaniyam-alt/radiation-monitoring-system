@@ -14,9 +14,7 @@
   <h3>🛡️ Your Personal Radiation Safety Assistant</h3>
   <p>Real-time monitoring • AI-powered advice • Predictive analytics • IoT ready</p>
   
-  <hr>
-  
-  ![Dashboard Preview](https://via.placeholder.com/800x400?text=RadSafe+Dashboard+Preview)
+ 
   
 </div>
 
@@ -110,49 +108,3 @@
 | 🔄 **Auto-sync** | Seamless data synchronization |
 
 
-radsafe-smart-monitor/
-│
-├── 📂 src/
-│   ├── 📂 screens/               # 17 Complete React Screens
-│   │   ├── DashboardScreen.tsx   # Main dashboard with speed meter
-│   │   ├── MonitorScreen.tsx     # Live radiation monitoring
-│   │   ├── AnalyticsScreen.tsx   # Charts & PDF export
-│   │   ├── MappingScreen.tsx     # Location-based radiation
-│   │   ├── ChatbotScreen.tsx     # Gemini AI assistant
-│   │   ├── MLPredictionScreen.tsx # AI trend forecasting
-│   │   ├── AuthScreen.tsx        # Login/Registration
-│   │   ├── ProfileScreen.tsx     # User profile
-│   │   ├── EditProfileScreen.tsx # Profile editing
-│   │   ├── IoTConnectivityScreen.tsx # Device management
-│   │   ├── AlertsScreen.tsx      # Notification center
-│   │   ├── AdminScreen.tsx       # Admin control panel
-│   │   ├── RecommendationsScreen.tsx # Safety tips
-│   │   ├── PrivacySettingsScreen.tsx # Privacy controls
-│   │   ├── WelcomeScreen.tsx     # Splash screen
-│   │   └── ...                  # And more!
-│   │
-│   ├── 📂 components/            # Reusable UI components
-│   ├── 📂 contexts/             # React Context (UserContext)
-│   ├── 📂 services/             # API integrations
-│   │   ├── geminiService.ts     # Google Gemini AI
-│   │   ├── mapService.ts        # OpenStreetMap geocoding
-│   │   ├── radiationService.ts  # Radiation simulation
-│   │   └── database.ts          # Database client
-│   │
-│   ├── 📂 types/                # TypeScript interfaces
-│   ├── App.tsx                  # Main app with navigation
-│   └── index.tsx               # Entry point
-│
-├── 📂 backend/
-│   ├── clean_backend.py        # Main API (port 8000)
-│   ├── database.py             # Database server (port 3002)
-│   ├── bulletproof.py          # Socket server (port 8001)
-│   └── radsafe_database.json   # JSON database file
-│
-├── 📂 public/                  # Static assets
-├── index.html                 # HTML template
-├── package.json              # Frontend dependencies
-├── tsconfig.json            # TypeScript configuration
-├── vite.config.ts           # Vite build configuration
-├── tailwind.config.js       # Tailwind CSS configuration
-└── README.md               # You are here!
